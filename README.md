@@ -1,4 +1,4 @@
-# react-inverted-border-view
+# react-native-inverted-border-view
 
 This repository includes an example react native component it mimics an inverted border view. 
 
